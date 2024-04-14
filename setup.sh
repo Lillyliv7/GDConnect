@@ -15,3 +15,5 @@ echo "# .env\nGUILDED_TOKEN=$guilded\n" > .envGuilded
 echo -n "Enter your Discord token: " 
 read discord
 echo "# .env\nDISCORD_TOKEN=$discord\n" > .envDiscord
+
+python3 main.py
