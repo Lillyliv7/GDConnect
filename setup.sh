@@ -8,6 +8,8 @@ read nothing
 
 pip install python-dotenv
 pip install asyncio
+pip install discord.py
+pip install guilded.py
 
 echo -n "Enter your Guilded token: " 
 read guilded
